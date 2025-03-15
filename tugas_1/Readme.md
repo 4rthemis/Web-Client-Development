@@ -6,3 +6,5 @@ Saya sangat mengapresiasi feedback yang diberikan. Terima kasih!
 
 Medium : https://medium.com/@syahrul.uix/mengenal-javascript-typescript-48df110dcb45
 Github : https://github.com/4rthemis/Tugas-1-Web-Client-Development
+
+====== Dokumentasi (TODO) =====
