@@ -151,19 +151,3 @@ document.getElementById("menuToggle").addEventListener("click", function () {
   }
 });
 ```
-
-## 📌 Cara Menggunakan
-
-1. Buka file `index.html` di browser.
-2. Pastikan `style.css` dan `menuToggle.js` berada dalam direktori yang sama agar tampilan dan fungsionalitas bekerja dengan baik.
-3. Untuk melihat tampilan responsif, coba ubah ukuran layar atau buka di perangkat mobile.
-
-## 🌟 Kontak
-
-Jika ada pertanyaan atau masukan, silakan hubungi saya melalui:
-
-- **Medium**: [Memahami Penggunaan Git](https://medium.com/@syahrul.uix/memahami-penggunaan-git-panduan-lengkap-untuk-pengembang-c72388869f65)
-- **GitHub**: [Repository](https://github.com/4rthemis/Web-Client-Development)
-- **LinkedIn**: [Syahrul Awaludin](https://www.linkedin.com/posts/syahrul-awaludin_memahami-penggunaan-git-panduan-lengkap-activity-7306891772918386688--2fQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjox60BFU15tS4Nz8SshIReZYA0qc9lmPM)
-
-Terima kasih!
